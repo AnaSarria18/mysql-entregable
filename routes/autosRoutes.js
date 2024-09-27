@@ -6,3 +6,6 @@ router.post('/autos',autosController.registrarAutos);
 router.get('/autos',autosController.autosDisponibles);
 
 module.exports = router;
+
+
+
